@@ -17,12 +17,12 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = "8282908489:AAF1OHWejcc_fa4voE79awJAovj2PJqLbIQ"
+BOT_TOKEN = "8618792567:AAFizG2EKiUH-b-bFz4dcibROcwbj-U6uu8"
 YML_FILE_PATH = ".git"
 BINARY_FILE_NAME = "flame"
 BINARY_STORAGE_PATH = "stored_binary.bin"
 ADMIN_IDS = [@praxharaj]
-OWNER_USERNAME = "@Rytce"
+OWNER_USERNAME = "@praxharaj"
 
 # ==================== BOLD TEXT CONVERTER ====================
 def bold(text):
@@ -76,8 +76,8 @@ def load_links():
                 }
             ],
             "free_group": {
-                "link": "https://t.me/+vrD7yD_euJxhMDg0",
-                "id": -1003876101784,
+                "link": "",
+                "id": ,
                 "enabled": True
             },
             "referral": {
